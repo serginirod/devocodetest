@@ -1,6 +1,6 @@
 ##############################
 #                            #
-# DEPPLOY GKE WITH TERRAFORM #
+# DEPLOY GKE WITH TERRAFORM #
 #                            #
 ##############################
 
