@@ -7,6 +7,7 @@
 -----------------------------------------------------------------------------------------------
 
 --- REQUISITES 1: YOU NEED TO GET AUTHENTICATION CREDENTIALS TO INTERACT WITH THE GKE ---
+
 gcloud container clusters get-credentials devocodetest-gke --zone us-central1
 
 -----------------------------------------------------------------------------------------------
