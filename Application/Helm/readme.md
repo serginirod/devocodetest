@@ -12,8 +12,6 @@
 
 --- STEP 3: GKE - CONFIGURE REPO HELM ---
 # helm repo add stable https://kubernetes-charts.storage.googleapis.com/
-# helm repo add activemq-artemis https://vromero.github.io/activemq-artemis-helm/
-webcenter/activemq:5.14.3
 
 --- STEP 4: GKE - INITIALIZE HELM DEPLOY TILLER ---
 # helm init --service-account=tiller --history-max 300
