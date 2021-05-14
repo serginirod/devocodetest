@@ -52,4 +52,7 @@ terrform plan
 --- STEP 7: TERRAFORM - PROVISIONING CLUSTER ---
 terraform apply
 
+------------------------------------------------------------------------------------------------
+
+OPTIONAL: I have generated a jenkinsfile file in case you want to make the call from jenkins to the terraform
 
